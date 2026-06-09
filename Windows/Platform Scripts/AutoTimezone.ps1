@@ -4,8 +4,8 @@
 
     .NOTES
         Author:   Bryan Moses
-        Version:  v1.1
-        Released: 2024-08-31
+        Version:  v1.0
+        Released: 2026-6-9
 
         Deployment (Microsoft Intune):
             Script type:  Platform Script
